@@ -1,4 +1,4 @@
-apex2 Object01 = new apex2();
+apex Object01 = new apex();
 
 ////////////////////variable .////
 
@@ -17,7 +17,7 @@ apex2 Object01 = new apex2();
 ////// functions /////////////
 
 
-///////// calculater fun /////////
+/////////simple and scientific calculater fun /////////
 
 Object01.add(5,5);
 Object01.sub(5,3);
@@ -25,6 +25,11 @@ Object01.mul(5,10);
 Object01.div(10,2);
 System.debug(Object01.square(5));
 System.debug(Object01.sqrt(9));
+System.debug(Object01.negativeValue(-45.67));
+System.debug(Object01.max(45.0, 35.0));
+System.debug(Object01.min(45.0, 35.0));
+System.debug(Object01.factorial(5));
+
 
 ///////// calculater fun /////////
 
@@ -47,3 +52,5 @@ System.debug(Object01.sqrt(9));
 // students1.height = 5.5;
 
 ////////// studentDetails /////
+
+

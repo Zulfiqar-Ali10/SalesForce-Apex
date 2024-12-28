@@ -28,7 +28,7 @@ System.debug(Object01.sqrt(9));
 System.debug(Object01.negativeValue(-45.67));
 System.debug(Object01.max(45.0, 35.0));
 System.debug(Object01.min(45.0, 35.0));
-System.debug(Object01.factorial(5));
+System.debug('factorial' + Object01.factorial(3));
 
 
 ///////// calculater fun /////////

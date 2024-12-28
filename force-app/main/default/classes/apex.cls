@@ -52,16 +52,14 @@ public class apex {
      }
     
     
-     public  Integer factorial(Integer num) {
-        if (num == null || num < 0) {
-            throw new IllegalArgumentException('Input must be a non-negative integer.');
-        }
+     public Integer factorial(Integer num) {
         Integer result = 1;
         for (Integer i = 1; i <= num; i++) {
             result *= i;
         }
-        return result;
+        return result; 
     }
+    
     
     
     }

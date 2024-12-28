@@ -38,7 +38,7 @@ System.debug(Object01.factorial(5));
 
 // students.MyName = 'Zulfiqar Ali';
 // students.job = 'Junior Full Stack Developer';
-// students.Date = 2007-7-14;
+// students.birthDate = 2007-7-14;
 // students.Address = 'House G-150, Karachi Korangi no 2';
 // students.hasSisters = false;
 // students.height = 5.9;
@@ -46,7 +46,7 @@ System.debug(Object01.factorial(5));
 // studentDetails students1 = new studentDetails();
 // students1.MyName = 'Akbar Ali';
 // students1.job = 'Junior Frontend Developer';
-// students1.Date = 2008-7-24;
+// students1.birthDate = 2008-7-24;
 // students1.Address = 'House M-120, Karachi Korangi no 4';
 // students1.hasSisters = true;
 // students1.height = 5.5;
